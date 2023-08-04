@@ -1,5 +1,5 @@
 # Phreeqc_code_Karst_Caves
-Paper: Formation of large karstic cave systems in carbonate rocks by cooling hydrothermal fluids 
+Paper: Cooling of hydrothermal fluids rich in carbon dioxide can create large karst cave systems in carbonate rocks 
 
 Roi Roded,1,2* Einat Aharonov,3,1* Amos Frumkin,1 Nurit Weber,5 Boaz Lazar,1 and Piotr Szymczak6
 1Institute of Earth Sciences, The Hebrew University, Jerusalem, Israel
